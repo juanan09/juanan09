@@ -66,7 +66,7 @@ Mi enfoque técnico prioriza la estabilidad y el rendimiento en entornos empresa
 * **Senior Software Engineer** @ *Ardanuy Ingeniería*
     * *Logro:* Migración de monolito a **API-first** (rendimiento +45%) y coordinación internacional.
 * **Profesor Tutor** @ *UNED*
-    * *Impacto:* Desarrollo de material didáctico y formación en IA y Sistemas Informáticos.
+    * *Impacto:* Desarrollo de material didáctico, formación en IA y Lenguajes Informáticos.
 
 ---
 
