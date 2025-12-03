@@ -22,7 +22,7 @@ Como **Ingeniero Senior** y **Profesor Universitario**, mi carrera se define por
 
 | 🛡️ Ingeniería de Software | 🎓 Docencia y Mentoring |
 | :--- | :--- |
-| **Arquitectura:** Diseño sistemas escalables y resilientes. | **Academia:** Profesor Tutor en la **UNED** (IA y Sistemas). |
+| **Arquitectura:** Diseño sistemas escalables y resilientes. | **Academia:** Profesor Tutor en la **UNED** (IA y Lenguajes). |
 | **Calidad:** Enfoque obsesivo en robustez y reducción de deuda técnica. | **Formación:** Fomento el pensamiento crítico y las buenas prácticas. |
 | **Gestión:** Liderazgo técnico de equipos en entornos críticos. | **Talento:** Mentoría activa para potenciar ingenieros junior y mid-level. |
 
